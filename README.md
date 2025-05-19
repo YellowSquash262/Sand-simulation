@@ -5,5 +5,4 @@ Python sand simulation visualized in Pygame
 
 
 
-Uploading Screen Recording 2025-05-19 at 9.23.03 AM.mov…
-
+https://github.com/user-attachments/assets/b5160eee-56ab-4628-8c65-25a732d2597e
